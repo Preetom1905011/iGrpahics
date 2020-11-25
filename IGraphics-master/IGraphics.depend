@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1563940332 source:c:\sylvanas\buet\c\igraphics\igraphics-master\imain.cpp
+	"iGraphics.h"
+
+1563940332 c:\sylvanas\buet\c\igraphics\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563940332 c:\sylvanas\buet\c\igraphics\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 c:\sylvanas\buet\c\igraphics\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603126422 source:c:\sylvanas\buet\c\igraphics\igraphics-master\watch.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1604637530 source:c:\sylvanas\buet\c\igraphics\igraphics-master\curves.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+	<time.h>
+
+1563940332 c:\sylvanas\buet\c\igraphics\igraphics-master\opengl\include\gl.h
+
+1604234906 source:c:\sylvanas\buet\c\igraphics\igraphics-master\curves1.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+	<time.h>
+
+1604231397 source:c:\sylvanas\buet\c\igraphics\igraphics-master\picturedemo.cpp
+	"iGraphics.h"
+
